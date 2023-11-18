@@ -1,0 +1,45 @@
+body{
+    text-align: center;
+}
+header{
+    background-color: black;
+    color: aliceblue;
+    padding: 20px;
+}
+nav ul li{
+    display: inline;
+}
+nav ul li a{
+    padding: 10px;
+    color: rgb(241, 241, 241);
+    font-size: 20px;
+    text-decoration: none;
+}
+#Home img{
+    height: 200px;
+    width: 200px;
+    border-radius: 50%;
+}
+#Bio p{
+    padding: 20px;
+    background-color: lightgrey;
+}
+#PortFolio p{
+    padding: 20px;
+    background-color: rgb(216, 216, 204);
+}
+li{
+    display: inline;
+    padding: 20px;
+}
+#Contact{
+    background-color: rgb(250, 248, 247);
+}
+footer{
+    background-color: rgb(4, 4, 4);
+    color: whitesmoke;
+}
+body{
+    background-color: rgb(251, 251, 251);
+}
+
